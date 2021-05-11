@@ -6,7 +6,7 @@ draft: false
 
 理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。然而，高出人类智能的生物或是神是否存在，世界的开始是怎样？人类从未停止思考这些问题，例如英国数学家罗素提出了逻辑上可能的[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说声称世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。
 
-{{< img src="/imgages/27327609075_8ec519e002_b" type="jpg" alt="" caption="Ecole polytechnique du 5 rue Descartes à Paris by Ecole polytechnique / Paris / France is licensed under CC BY-SA 2.0" >}}
+{{< img src="/images/27327609075_8ec519e002_b" type="jpg" alt="" caption="Ecole polytechnique du 5 rue Descartes à Paris by Ecole polytechnique / Paris / France is licensed under CC BY-SA 2.0" >}}
 
 这个假说是否可能？回顾人类的过去我们很容易看到：人类用群体智慧制造的大型工程经过反复测试后仍然可能出现失误，甚至并不罕见(例如[阿波罗13号登月的失败](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9713%E5%8F%B7#%E4%BA%8B%E6%95%85))，有些失误甚至看起来很初级(例如[阿丽亚娜5号第一次发射的失败](https://zh.wikipedia.org/wiki/%E4%BA%9E%E5%88%A9%E5%AE%895%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD#%E9%87%8D%E8%A6%81%E7%99%BC%E5%B0%84%E7%B4%80%E9%8C%84)、[Windows 98的蓝屏](https://en.wikipedia.org/wiki/Blue_screen_of_death#Windows_9x))，不仅历史上如此，至今自动驾驶汽车依然有[不可忽略的安全隐患](https://www.caranddriver.com/news/a32783046/iihs-autonomous-cars-not-as-safe-study/)。人类仅仅创造一个接近完美的大型航天器(保证很高的发射成功率)或接近完美的自动驾驶交通系统(保证很高的安全性)就如此困难，而创造几十亿人类的历史并将历史注入人的意识中，以使所有人的记忆毫无冲突、不至于产生灾难(例如某个正常人记忆中的常识与他人不同却被委以重任)将是多么困难的事情。我认为这是高于人类智能的生物也不可能完成的任务。
 
