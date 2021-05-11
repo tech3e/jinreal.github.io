@@ -4,7 +4,7 @@ date: 2021-05-11T12:01:13+08:00
 draft: false
 ---
 
-理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。而高出人类智能的生物或神是否存在？世界的开始是怎样的？人类从未停止思考这些问题。英国数学家罗素提出过一个[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说假设世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。这个假说提出的问题是：人类现在的记忆是否可能是刚被植入的，而非我们亲身经历过的？
+理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。而高出人类智能的生物或神是否存在？世界的开始是怎样的？人类从未停止思考这些问题。英国数学家罗素提出过一个[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说假设世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。这个假说提出了挑战：人类现在的记忆是否可能是刚被植入的，而非我们亲身经历过的？
 
 {{< img src="/images/27327609075_8ec519e002_b" type="jpg" alt="" caption="\"Ecole polytechnique du 5 rue Descartes à Paris\" by Ecole polytechnique / Paris / France is licensed under CC BY-SA 2.0" >}}
 
