@@ -4,16 +4,16 @@ date: 2021-05-11T12:01:13+08:00
 draft: false
 ---
 
-理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。然而，高出人类智能的生物或是神是否存在，世界是怎样创造的？人类从未停止思考这些问题，例如英国数学家罗素提出了逻辑上可能的[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说声称世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。
+理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。然而，高出人类智能的生物或是神是否存在，世界的开始是怎样？人类从未停止思考这些问题，例如英国数学家罗素提出了逻辑上可能的[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说声称世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。
 
 {{< rawhtml >}}
 <p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;height:341.5px;width:512px;" src="https://live.staticflickr.com/7423/27327609075_8ec519e002_b.jpg" alt="Université Paris Descartes - rue des Saints Pères"><a href="https://www.flickr.com/photos/96092563@N08/27327609075">"Université Paris Descartes - rue des Saints Pères"</a><span> by <a href="https://www.flickr.com/photos/96092563@N08">Max Sat</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-ND 2.0</a><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=3597de85-9237-4a72-be4e-e97512bcfd21" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" /></a></p>
 {{< /rawhtml >}}
 
-这个假说是否可能？回顾人类的过去我们很容易看到：人类用群体智慧制造的大型工程经过反复测试后仍然可能出现失误，甚至并不罕见(例如[阿波罗13号登月的失败](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9713%E5%8F%B7#%E4%BA%8B%E6%95%85))，有些失误甚至看起来很初级(例如[阿丽亚娜5号第一次发射的失败](https://zh.wikipedia.org/wiki/%E4%BA%9E%E5%88%A9%E5%AE%895%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD#%E9%87%8D%E8%A6%81%E7%99%BC%E5%B0%84%E7%B4%80%E9%8C%84)、[Windows 98的蓝屏](https://en.wikipedia.org/wiki/Blue_screen_of_death#Windows_9x))，不仅历史上如此，至今自动驾驶汽车依然有[不可忽略的安全隐患](https://www.caranddriver.com/news/a32783046/iihs-autonomous-cars-not-as-safe-study/)。
+这个假说是否可能？回顾人类的过去我们很容易看到：人类用群体智慧制造的大型工程经过反复测试后仍然可能出现失误，甚至并不罕见(例如[阿波罗13号登月的失败](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9713%E5%8F%B7#%E4%BA%8B%E6%95%85))，有些失误甚至看起来很初级(例如[阿丽亚娜5号第一次发射的失败](https://zh.wikipedia.org/wiki/%E4%BA%9E%E5%88%A9%E5%AE%895%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD#%E9%87%8D%E8%A6%81%E7%99%BC%E5%B0%84%E7%B4%80%E9%8C%84)、[Windows 98的蓝屏](https://en.wikipedia.org/wiki/Blue_screen_of_death#Windows_9x))，不仅历史上如此，至今自动驾驶汽车依然有[不可忽略的安全隐患](https://www.caranddriver.com/news/a32783046/iihs-autonomous-cars-not-as-safe-study/)。人类仅仅创造一个接近完美的大型航天器(保证很高的发射成功率)或接近完美的自动驾驶交通系统(保证很高的安全性)就如此困难，那么创造几十亿人类的历史并将历史注入人的意识中，以使所有人的记忆毫无冲突、不至于产生灾难(例如某个正常人记忆中的常识与他人不同却被委以重任)将是多么困难的事情。我认为这是高于人类智能的生物也不可能完成的。
 
-人类仅仅创造一个接近完美的大型航天器(保证很高的发射成功率)或接近完美的自动驾驶交通系统(保证很高的安全性)就如此困难，由这一点我推测：创造几十亿人类的历史并将历史注入人的意识中，以使所有人的记忆毫无冲突、不至于产生灾难(例如某个正常人记忆中的常识与他人不同却被委以重任)，我认为这是高于人类智能的生物不可能完成的。而神不会做这件事，因为这件事是极度不公正的，为什么5分钟前突然有人被植入患有疾病的记忆，开始经历极度的痛苦，而有人被植入幸福生活的记忆，开始经历极大的幸福？难道人类仅仅是5分钟前开始的一场测试(test)中的实验品吗？而在这场测试(the test)中，死难的人数是随意的、死难者的多少没有区别吗？哪怕是几十万、几百万甚至几千万？
+我相信神也不会做这件事。设想一下，如果5分钟前突然有人被植入患有疾病的记忆，开始经历极度的痛苦，而有人被植入幸福生活的记忆，开始经历极大的幸福，这可能是神的意志吗？如果人类仅仅是5分钟前开始的一场测试(test)中的实验品，而在这场测试(the test)中，死难的人数是随意的、死难者的多少没有区别，这实验的目的是什么，这可能是神的意志吗？
 
-我相信现在人类所记忆的历史是来自顺序发生的真实事件，而非植入的记忆，换句话说，世界是真实的，神是公正之神。
+我相信现在人类所记忆的历史是来自顺序发生的真实事件，而非植入的记忆，换句话说，我相信世界是真实的，神是公正之神。
 
 [1] Age of Reason，又称[启蒙时代](https://zh.wikipedia.org/wiki/%E5%95%9F%E8%92%99%E6%99%82%E4%BB%A3)(Age of Enlightenment)、启蒙运动(Enligntenment)。
