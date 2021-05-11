@@ -4,13 +4,16 @@
     <figure>
     {{ end }}
       <picture>
+        <source
+          media="(min-width: 535px)"
+          srcset="{{ .Get "src" }}@2x.{{ .Get "type" }}">
+        <!-- Small screens -->
+        <source
+          media="(max-width: 534px)"
+          srcset="{{ .Get "src" }}.{{ .Get "type" }} 1x">
         <!-- Fallback -->
         <img
           src="{{ .Get "src" }}.{{ .Get "type" }}"
-          src-set="{{ .Get "src" }}.{{ .Get "type" }} 256w,
-                   {{ .Get "src" }}@2x.{{ .Get "type" }} 512w"
-          sizes="(max-width: 400px) 256px,
-                512px"
           alt="{{ .Get "alt" }}"{{ if .Get "caption"}} class="img-fluid figure-img"{{ end }}>
       </picture>
     {{ if .Get "caption"}}
