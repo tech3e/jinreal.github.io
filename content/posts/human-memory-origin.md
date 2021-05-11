@@ -16,4 +16,4 @@ draft: false
 
 我相信现在人类所记忆的历史是来自顺序发生的真实事件，不是被植入的记忆，换句话说，我相信世界是真实的，神是公正之神。
 
-[1] Age of Reason，又称[启蒙时代](https://zh.wikipedia.org/wiki/%E5%95%9F%E8%92%99%E6%99%82%E4%BB%A3)(Age of Enlightenment)、启蒙运动(Enligntenment)。
+[1] 理性时代(Age of Reason)，又称[启蒙时代](https://zh.wikipedia.org/wiki/%E5%95%9F%E8%92%99%E6%99%82%E4%BB%A3)(Age of Enlightenment)、启蒙运动(Enligntenment)。
