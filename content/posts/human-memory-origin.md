@@ -4,7 +4,7 @@ date: 2021-05-11T12:01:13+08:00
 draft: false
 ---
 
-理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。然而，高出人类智能的生物或是神是否存在？人类从未停止思考这个问题，例如英国数学家罗素提出了逻辑上可能的[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说声称世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。
+理性时代[1]的先驱、法国哲学家笛卡尔有一句名言——"我思故我在"，这句话常被作为人类真实存在的证据。然而，高出人类智能的生物或是神是否存在，世界是怎样创造的？人类从未停止思考这些问题，例如英国数学家罗素提出了逻辑上可能的[5分钟假说](https://en.wikipedia.org/wiki/Omphalos_hypothesis#Five-minute_hypothesis)，这个假说声称世界是在5分钟前刚被创造的，包括人类的记忆及其他一切历史。
 
 这个假说是否可能？回顾人类的过去我们很容易看到：人类用群体智慧制造的大型工程经过反复测试后仍然可能出现失误，甚至并不罕见(例如[阿波罗13号登月的失败](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B3%A2%E7%BD%9713%E5%8F%B7#%E4%BA%8B%E6%95%85))，有些失误甚至看起来很初级(例如[阿丽亚娜5号发射的失败](https://zh.wikipedia.org/wiki/%E4%BA%9E%E5%88%A9%E5%AE%895%E8%99%9F%E9%81%8B%E8%BC%89%E7%81%AB%E7%AE%AD#%E9%87%8D%E8%A6%81%E7%99%BC%E5%B0%84%E7%B4%80%E9%8C%84)、[Windows 98的蓝屏](https://en.wikipedia.org/wiki/Blue_screen_of_death#Windows_9x))，不仅历史上如此，至今自动驾驶汽车依然有[不可忽略的安全隐患](https://www.caranddriver.com/news/a32783046/iihs-autonomous-cars-not-as-safe-study/)。
 
@@ -12,4 +12,4 @@ draft: false
 
 我相信现在人类所记忆的历史是来自顺序发生的真实事件，而非植入的记忆，换句话说，世界是真实的，神是公正之神。
 
-[1] Age of Reason，又称[启蒙时代](https://zh.wikipedia.org/wiki/%E5%95%9F%E8%92%99%E6%99%82%E4%BB%A3)(Age of Enlightenment)、启蒙运动(Enligntenment).
+[1] Age of Reason，又称[启蒙时代](https://zh.wikipedia.org/wiki/%E5%95%9F%E8%92%99%E6%99%82%E4%BB%A3)(Age of Enlightenment)、启蒙运动(Enligntenment)。
