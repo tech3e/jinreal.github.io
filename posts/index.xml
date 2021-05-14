@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 牛津的博客</title><link>https://blog.jinreal.com/posts/</link><description>Recent content in Posts on 牛津的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 14 May 2021 11:19:19 +0800</lastBuildDate><atom:link href="https://blog.jinreal.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>小说：操作系统检查器（一）</title><link>https://blog.jinreal.com/posts/system-checker/</link><pubDate>Fri, 14 May 2021 11:19:19 +0800</pubDate><guid>https://blog.jinreal.com/posts/system-checker/</guid><description>甲: 我朋友那有个电脑，很多人用，用了好多年了，最近系统好像出了大问题，不知道咋回事，他说资料都有备份，让我随便弄。我好奇，就试着捣弄了下也没看出点门道。
 乙：是啥样？
-甲: 有鼠标，灰色背景，不是黑屏，肯定已经进了系统。右下角有个系统检查器的图标，我进去以后提示“点击帮助会有专家回复”，我想，这挺好的，就点了一下，等了一会儿，弹出一个对话框，说：“你个傻瓜！你没有系统，你得有一个最正确的系统！”。我一看就蒙了，这是什么意思啊？
+甲: 有鼠标，灰色背景，不是黑屏，肯定已经进了系统。右下角有个系统检查器的图标，我进去以后提示“点击帮助会有专家回复”，我想，这挺好的，就点了一下，等了一会儿，弹出一个对话框，说：“你个傻瓜！你没有系统，你得有一个最正确的系统！”。我一看就蒙了，你说这是什么意思啊？
 乙: 我就上培训班学过一个月的开发，而且不是系统开发，更不是做操作系统的，只是做很简单的网站。我不是搞操作系统的，连网站开发都懂得很少啊。
 甲: 没事，你说说，这会不会是机器自己报的错，不是专家给的。
 乙: 不会，如果没装系统，或者识别不出来系统，BIOS也就是硬件的基本系统会告诉你：没有系统。BIOS不会提示要正确的系统。
