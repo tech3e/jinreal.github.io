@@ -5,6 +5,6 @@ theme = 'noteworthy-mod'
 
 [params]
     # Programming
-    github = "https://github.com/jinreal/"
-
-    medium = "https://medium.com/@tech3e"
+    github = "github.com/jinreal/"
+    weibo = "weibo.com/jinreal2014"
+    medium = "medium.com/@tech3e"
