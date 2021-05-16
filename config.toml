@@ -2,3 +2,9 @@ baseURL = "https://blog.jinreal.com/"
 languageCode = "zh-cn"
 title = "牛津的博客"
 theme = 'noteworthy-mod'
+
+[params]
+    # Programming
+    github = "https://github.com/jinreal/"
+
+    medium = "https://medium.com/@tech3e"
