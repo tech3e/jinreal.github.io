@@ -20,6 +20,6 @@ draft: false
 
 ================================
 
-已發布的:  
+過去已發布的:  
 [新浪微博](https://weibo.com/a/hot/7586591471638529_1.html)  
 [Medium](https://tech3e.medium.com/)  
