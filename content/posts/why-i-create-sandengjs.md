@@ -13,4 +13,4 @@ So I create a js project named "sandeng js" as my project name, the project will
 
 同時，我有寫個新小說的想法，是寫有關土地、沙粒之類的，暫時命名為“非真實地場”。
 
-所以我創建了一個Javascript項目，名字叫Sandeng js，這個項目會包含寫這個小說時編寫的Javascript庫，我會試著看它會怎樣發展。也許我會在這個項目裡包含更多。
+所以我創建了一個Javascript項目，名字叫SandengJS，這個項目會包含寫這個小說時編寫的Javascript庫，我會試著看它會怎樣發展。也許我會在這個項目裡包含更多。
