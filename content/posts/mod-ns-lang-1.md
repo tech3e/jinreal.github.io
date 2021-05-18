@@ -6,4 +6,4 @@ draft: false
 
 {{< img src="/images/mod/ns-lang/1/ns-lang-1-en" type="png" alt="" caption="Programming Language(1), Image from youtu.be/2h1OcA7juOQ" >}}
 
-{{< img src="/images/mod/ns-lang/1/ns-lang-1-cn" type="png" alt="" caption="編程語言(1), 圖片來自 youtu.be/2h1OcA7juOQ" >}}
+{{< img src="/images/mod/ns-lang/1/ns-lang-1-zh" type="png" alt="" caption="編程語言(1), 圖片來自 youtu.be/2h1OcA7juOQ" >}}
