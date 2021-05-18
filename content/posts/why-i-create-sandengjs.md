@@ -5,7 +5,7 @@ draft: false
 ---
 I like to create little things, and I want to continue as long as I'm alive, but I still haven't figure out a domain name for my creative works for a long time. My pen name called Third Estate Technician, the abbreviation "TET" in popular domain providers is registered by others of course and I'm not sure whether I should choose a postfix or a variation, then I found that its pinyin "sandengjishi" looks not bad actaully: the last part "jishi" means technician in Chinese and can be abbreviated as js, so the entire abbreviation can be sandengjs.
 
-Also, I got an idea to write a new novel highly related to land and sand etc recently, its title is "Unreal Field".
+Also, I got an idea to write a new novel highly related to land and sand etc recently, its title is "Unreal Field" currently.
 
 So I create a js project named "sandeng js" as my project name, the project will include Javascript libraries I built to finish the novel(if there's any) and I'll see how it goes. Maybe I'll include more in this project.
 
