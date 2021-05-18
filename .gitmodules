@@ -4,6 +4,3 @@
 [submodule "static/images/mod"]
 	path = static/images/mod
 	url = git@github.com:tetconst/mod.git
-[submodule "static/images/orig"]
-	path = static/images/orig
-	url = git@github.com:tetconst/orig.git
