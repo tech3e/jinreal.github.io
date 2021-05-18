@@ -1,3 +1,6 @@
 [submodule "themes/noteworthy-mod"]
 	path = themes/noteworthy-mod
 	url = https://github.com/jinreal/hugo-theme-noteworthy
+[submodule "static/images/mod"]
+	path = static/images/mod
+	url = git@ghjinreal:tetconst/mod.git
