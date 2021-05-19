@@ -9,7 +9,7 @@ Also, I got an idea to write a new novel highly related to land and sand etc rec
 
 So I create a [Javascript](https://en.wikipedia.org/wiki/JavaScript) project named "sandeng js" as my project name, the project will include Javascript libraries I built to finish the novel(if there's any) and I'll see how it goes. Maybe I'll include more in this project.
 
-我喜歡創造小的東西，經歷這場神經疾病的災難後至少我還活著，所以我希望还能创作。但我一直沒想好我的創作網站該用什麼域名。我的筆名叫三等技師，它的縮寫"TET"在各大域名服務商那裡都已經註冊，而我不確定我該用個後綴還是其他變體，然後我發現它的拼音"sandengjishi"看起來並不差：他的後半部分"jishi"在中文中的縮寫是js，所以也許整個域名可以叫sandengjs。
+我喜歡造小的東西，經歷這場神經疾病的災難後至少我還活著，所以我希望还能继续创作。但我一直沒想好我的創作網站該用什麼域名。我的筆名叫三等技師，它的縮寫"TET"在各大域名服務商那裡都已經註冊，而我不確定我該用個後綴還是其他變體，然後我發現它的拼音"sandengjishi"看起來並不差：他的後半部分"jishi"在中文中的縮寫是js，所以也許整個域名可以叫sandengjs。
 
 同時，我有寫個新小說的想法，是寫有關土地、沙粒之類的，暫時命名為“非真實地場”(英語是Unreal fields)。
 
