@@ -19,7 +19,7 @@ theme = 'noteworthy-mod'
 	weight = 2
 
 [[menu.main]]
-	identifier = "test"
-	name = "標籤"
+	identifier = "tags-novel"
+	name = "小說"
 	url = "/tags/小說/"
 	weight = 2
