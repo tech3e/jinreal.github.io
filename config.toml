@@ -8,3 +8,6 @@ theme = 'noteworthy-mod'
     github = "https://github.com/jinreal/"
     weibo = "http://weibo.com/jinreal2014"
     medium = "https://medium.com/@tetconst"
+
+[taxonomies]
+  tag = "tags"
