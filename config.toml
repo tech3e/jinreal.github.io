@@ -11,3 +11,9 @@ theme = 'noteworthy-mod'
 
 [taxonomies]
   tag = "tags"
+
+[[menu.main]]
+	identifier = "tags"
+	name = "Tags"
+	url = "/tags/"
+	# weight = 2
