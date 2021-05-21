@@ -14,6 +14,12 @@ theme = 'noteworthy-mod'
 
 [[menu.main]]
 	identifier = "tags"
-	name = "Tags"
+	name = "標籤"
 	url = "/tags/"
-	# weight = 2
+	weight = 2
+
+# [[menu.main]]
+# 	identifier = "test"
+# 	name = "標籤"
+# 	url = "/tags/"
+# 	weight = 2
