@@ -12,11 +12,11 @@ theme = 'noteworthy-mod'
 [taxonomies]
   tag = "tags"
 
-[[menu.main]]
-	identifier = "tags"
-	name = "標籤"
-	url = "/tags/"
-	weight = 2
+# [[menu.main]]
+# 	identifier = "tags"
+# 	name = "標籤"
+# 	url = "/tags/"
+# 	weight = 2
 
 [[menu.main]]
 	identifier = "tags-novel"
