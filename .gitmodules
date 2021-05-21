@@ -7,3 +7,6 @@
 [submodule "static/images/orig"]
 	path = static/images/orig
 	url = git@github.com:tetconst/orig.git
+[submodule "static/orig"]
+	path = static/orig
+	url = git@github.com:tetconst/orig.git
