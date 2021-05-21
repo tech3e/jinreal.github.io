@@ -9,5 +9,5 @@ theme = 'noteworthy-mod'
     weibo = "http://weibo.com/jinreal2014"
     medium = "https://medium.com/@tetconst"
 
-[taxonomies]
-  tag = "tags"
+# [taxonomies]
+#   tag = "tags"
