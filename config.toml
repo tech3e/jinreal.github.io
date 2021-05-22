@@ -23,3 +23,9 @@ theme = 'noteworthy-mod'
 	name = "小說"
 	url = "/tags/小說/"
 	weight = 2
+
+[[menu.main]]
+	identifier = "tags-manual"
+	name = "手冊"
+	url = "/tags/手冊/"
+	weight = 3
