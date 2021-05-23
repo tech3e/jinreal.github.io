@@ -17,4 +17,4 @@ tags: [手冊]
 {{< img src="/images/orig/tetlogic/p3" type="png" alt="" caption="" >}}
 
 4  
-{{< img src="/images/orig/tetlogic/p3" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/tetlogic/p4" type="png" alt="" caption="" >}}
