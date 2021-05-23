@@ -15,3 +15,6 @@ tags: [手冊]
 
 3  
 {{< img src="/images/orig/tetlogic/p3" type="png" alt="" caption="" >}}
+
+4  
+{{< img src="/images/orig/tetlogic/p3" type="png" alt="" caption="" >}}
