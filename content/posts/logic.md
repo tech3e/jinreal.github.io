@@ -2,7 +2,7 @@
 title: "邏輯學"
 date: 2021-05-22T11:29:34+08:00
 draft: false
-tags: [手冊]
+tags: [其他]
 ---
 封面  
 {{< img src="/images/orig/tetlogic/cover" type="png" alt="" caption="" >}}

@@ -26,6 +26,6 @@ theme = 'noteworthy-mod'
 
 [[menu.main]]
 	identifier = "tags-manual"
-	name = "手冊"
-	url = "/tags/手冊/"
+	name = "其他"
+	url = "/tags/其他/"
 	weight = 3
