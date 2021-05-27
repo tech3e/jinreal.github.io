@@ -9,3 +9,6 @@ tags: [其他]
 
 1  
 {{< img src="/images/orig/fragments/1" type="png" alt="" caption="" >}}
+
+2  
+{{< img src="/images/orig/fragments/2" type="png" alt="" caption="" >}}
