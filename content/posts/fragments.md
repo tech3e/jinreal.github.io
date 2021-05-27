@@ -1,0 +1,10 @@
+---
+title: "三等技師碎片集"
+date: 2021-05-27T10:44:36+08:00
+draft: false
+---
+封面  
+{{< img src="/images/orig/fragments/cover" type="png" alt="" caption="" >}}
+
+1  
+{{< img src="/images/orig/fragments/1" type="png" alt="" caption="" >}}
