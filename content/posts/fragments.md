@@ -21,3 +21,6 @@ tags: [其他]
 
 5  
 {{< img src="/images/orig/fragments/5" type="png" alt="" caption="" >}}
+
+6  
+{{< img src="/images/orig/fragments/6" type="png" alt="" caption="" >}}
