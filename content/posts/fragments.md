@@ -17,4 +17,4 @@ tags: [其他]
 {{< img src="/images/orig/fragments/3" type="png" alt="" caption="" >}}
 
 4  
-{{< img src="/images/orig/fragments/3" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/fragments/4" type="png" alt="" caption="" >}}
