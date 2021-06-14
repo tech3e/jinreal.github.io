@@ -2,6 +2,7 @@ baseURL = "https://blog.jinreal.com/"
 languageCode = "zh-cn"
 title = "牛津的博客"
 theme = 'noteworthy-mod'
+disqusShortname = "jinreal"
 
 [params]
     # Programming
