@@ -2,41 +2,28 @@
 title: "【非真實地場】RAM區初探"
 date: 2021-07-29T22:41:04+08:00
 tags: [小說]
-draft: true
+draft: false
 ---
-「連名稱都不確定？你在開玩笑吧」B說。
-
 「記錄上有的是RAM，有的是ROM」E說。
 
-「難道區名也被壓縮了？」C說。
+「映射結果是什麽」C問。
 
-「是的，要么是Rice and Ancient Moon，要么是Rice and Old Moon」E說。
+「Rice and Ancient Moon，或者Rice and Old Moon」E說。
 
 「米與遠古之月？米古月？」B說。
 
 「是的」C吸了一口氣，說道。
 
-{{< img src="/images/Plant_nodes_c" type="jpg" alt="" caption="" >}}
+大家看著剛讀取的記錄：
 
-連區名都被壓縮，這裡究竟發生了什麼，耗費了如此極限的能量，大家陷入了深思。過了不久，更多的記錄被順利載入：
+{{< img src="/images/orig/uf/fragment/005" type="png" alt="" caption="" >}}
 
-「這是一種新型ESSENCE，據說注入之後，原有的L樹將在第三級長成時達到史無前例的RH值。
+「像是字典」A說。
 
-...
+「看看這個」B說。
 
-然而，注入之後，L樹第一級便出現了生長停滯狀態，也就是說，第一級仍然需要非自動生長手段，而且居然需要緊急手段。
+{{< img src="/images/orig/uf/poem/001" type="png" alt="" caption="" >}}
 
-這時RAM區的部分INDI對此表示了質疑，他們認為既然這種ESSENCE能使第三級的RH值呈現極大值，那麼第一級和第二級的AUTO值應該更高，這樣才可能使前兩級迅速且完整的生長，從而支撐第三級長成時的高RH值形態。
+「Pattern?」D自言自語道。
 
-...
-
-這就像一種需要人工拔高的種子，需要拔苗助長。也就是說它不是一種自然的種子，它的生長不是自然的。
-
-...
-
-」
-
-「難道非A系的ESSENCE永遠無法使L樹達到終極形態?」C問。
-
-大家再一次陷入了沉默。
-
+大家陷入了思考。
