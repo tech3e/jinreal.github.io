@@ -22,11 +22,11 @@ draft: false
 
 「這塊記錄只有一部分是有效的」A說。
 
-「九宮格那部分沒有信息」F邊說邊看著屏幕。
+「九宮格那部分沒有信息」F邊說邊看著屏幕：
 
 {{< img src="/images/orig/uf/inspector/001" type="png" alt="" caption="" >}}
 
-「就是馬賽克那部分」C邊說邊看著屏幕。
+「就是馬賽克那部分」C邊說邊看著屏幕：
 
 {{< img src="/images/orig/uf/inspector/002" type="png" alt="" caption="" >}}
 
