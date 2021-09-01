@@ -16,7 +16,7 @@ draft: false
 
 「很不幸，估計是」C說。
 
-大家繼續看著記錄。
+大家繼續看著記錄：
 
 {{< img src="/images/orig/uf/fragment/001" type="png" alt="" caption="" >}}
 
