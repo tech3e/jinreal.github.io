@@ -17,7 +17,7 @@ draft: false
 
 「還有AI區的」D指著：
 
-{{< img src="/images/orig/uf/poem/have" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/worship" type="png" alt="" caption="" >}}
 
 C指著RAM區剛讀取的紀錄：
 
