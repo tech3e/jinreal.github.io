@@ -19,6 +19,6 @@ draft: false
 
 {{< img src="/images/orig/uf/poem/have" type="png" alt="" caption="" >}}
 
-C指著ROM區剛讀取的紀錄：
+C指著RAM區剛讀取的紀錄：
 
 {{< img src="/images/orig/uf/poem/words" type="png" alt="" caption="" >}}
