@@ -1,5 +1,5 @@
 ---
-title: "XIN與詩"
+title: "【非真實地場】XIN與詩"
 date: 2021-09-03T18:33:37+08:00
 tags: [小說]
 draft: false
