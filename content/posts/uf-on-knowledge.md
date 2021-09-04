@@ -15,10 +15,12 @@ draft: false
 
 「感覺有點亂，有個表格就好了」T說。
 
-「看看這個」C說。
+「看看這些」C說。
 
 {{< img src="/images/orig/uf/poem/machine" type="png" alt="" caption="" >}}
 
+{{< img src="/images/orig/uf/poem/word" type="png" alt="" caption="" >}}
+
 「還有這個」C指著另一塊數據。
 
-{{< img src="/images/orig/uf/poem/word" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/art" type="png" alt="" caption="" >}}
