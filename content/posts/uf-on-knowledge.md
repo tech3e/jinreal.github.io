@@ -1,5 +1,5 @@
 ---
-title: "Knowledge"
+title: "【非真實地場】Knowledge"
 date: 2021-09-04T15:51:54+08:00
 tags: [小說]
 draft: false
