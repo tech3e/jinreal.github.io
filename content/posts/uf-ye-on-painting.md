@@ -13,7 +13,7 @@ draft: false
 
 A同學拿出一張紙：
 
-大 大大 大大大 大大大大 大大大大大
+    大 大大 大大大 大大大大 大大大大大
 
 「你這篇，呵呵呵，這是詩還是句子呢」老師邊笑邊問。
 「我也不知道」A說。
@@ -22,11 +22,11 @@ A同學拿出一張紙：
 
 學生A沉默了一會兒而，沒有說話，又拿出了另一張紙：  
 
-    大  
-   大大  
-  大大大  
- 大大大大  
-大大大大大  
+        大  
+       大大  
+      大大大  
+     大大大大  
+    大大大大大  
 
 「這，這是字還是畫呢」老師睜大眼睛問道。
 「我也不知道」A說。
@@ -40,6 +40,6 @@ A同學拿出一張紙：
 
 「還有這些」A說。
 
-{{< img src="/images/orig/uf/poem/data" type="png" alt="" caption="" >}}
-
 {{< img src="/images/orig/uf/poem/graph" type="png" alt="" caption="" >}}
+
+{{< img src="/images/orig/uf/poem/data" type="png" alt="" caption="" >}}
