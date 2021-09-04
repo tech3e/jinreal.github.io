@@ -1,7 +1,8 @@
 ---
 title: "YE與畫"
 date: 2021-09-04T12:41:12+08:00
-draft: true
+tags: [小說]
+draft: false
 ---
 
 「還有什麼數據嗎」E問。
