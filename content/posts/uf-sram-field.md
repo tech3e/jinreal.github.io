@@ -28,3 +28,5 @@ draft: false
 「Good」C邊說邊看著新數據，上面已經加上了擴譯器的版本號：
 
 {{< img src="/images/orig/uf/poem/universe" type="png" alt="" caption="" >}}
+
+{{< img src="/images/orig/uf/poem/cross" type="png" alt="" caption="" >}}
