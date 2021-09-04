@@ -11,9 +11,9 @@ draft: false
 
 「我不知道我們在做什麼」B說。
 
-「芝麻糊，芝麻店，芝麻街，芝麻城，噢，我的神啊」D說。
+「芝麻糊，芝麻店，芝麻街，芝麻城，噢，這裡難道是遊樂園嗎，我的神啊」D說。
 
-「Defend the ancient！」B說。
+「Defend the ancients！」B說。
 
 「什麼?」D說。
 
