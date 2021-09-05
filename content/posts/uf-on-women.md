@@ -21,8 +21,8 @@ draft: false
 
 「還有這些」C指著：
 
+{{< img src="/images/orig/uf/poem/link" type="png" alt="" caption="" >}}
+
 {{< img src="/images/orig/uf/poem/tu" type="png" alt="" caption="" >}}
 
 {{< img src="/images/orig/uf/poem/game" type="png" alt="" caption="" >}}
-
-{{< img src="/images/orig/uf/poem/link" type="png" alt="" caption="" >}}
