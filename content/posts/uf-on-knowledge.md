@@ -23,4 +23,4 @@ draft: false
 
 「還有這個」C指著另一塊數據。
 
-{{< img src="/images/orig/uf/poem/art" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/pandnp" type="png" alt="" caption="" >}}
