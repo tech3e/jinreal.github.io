@@ -25,4 +25,4 @@ draft: false
 
 {{< img src="/images/orig/uf/poem/game" type="png" alt="" caption="" >}}
 
-{{< img src="/images/orig/uf/poem/rank" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/link" type="png" alt="" caption="" >}}
