@@ -17,7 +17,7 @@ draft: false
 
 「看看這個」C說。
 
-{{< img src="/images/orig/uf/poem/and" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/3" type="png" alt="" caption="" >}}
 
 {{< img src="/images/orig/uf/poem/class" type="png" alt="" caption="" >}}
 
