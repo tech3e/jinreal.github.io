@@ -5,7 +5,7 @@ tags: [小說]
 draft: false
 ---
 
-「Mapping做了多少了」A問。
+「Mapping到多少了」A問。
 
 「已經更新了，感覺有點兒像遊戲」T說。
 
