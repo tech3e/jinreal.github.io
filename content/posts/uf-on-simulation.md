@@ -11,7 +11,7 @@ draft: false
 
 「又像是遊戲，有什麼理論嗎」J說。
 
-「你是說遊戲的理論?」C說。
+「你是說遊戲的理論還是神的理論?」C說。
 
 「我再想想」J說。
 
@@ -20,5 +20,3 @@ draft: false
 {{< img src="/images/orig/uf/poem/3" type="png" alt="" caption="" >}}
 
 {{< img src="/images/orig/uf/poem/class" type="png" alt="" caption="" >}}
-
-{{< img src="/images/orig/uf/poem/theory" type="png" alt="" caption="" >}}
