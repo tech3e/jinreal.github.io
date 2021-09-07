@@ -11,12 +11,12 @@ draft: false
 
 「測試做了多少了」A問。
 
-「快完了，我在看擴譯器的配置」N邊說邊看著加註釋的擴譯結果。
+「快完了，我在看擴譯器的配置」N一邊測試，一邊看著加註釋的擴譯結果。
 
-{{< img src="/images/orig/uf/test/class" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/test/001" type="png" alt="" caption="" >}}
 
-{{< img src="/images/orig/uf/test/class_with_comments" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/option" type="png" alt="" caption="" >}}
 
-「不看也知道，沒什麼用」N心裡想，然後繼續看數據。
+「不需要這些」N心裡想，然後繼續看數據。
 
-{{< img src="/images/orig/uf/test/number" type="png" alt="" caption="" >}}
+{{< img src="/images/orig/uf/poem/number" type="png" alt="" caption="" >}}
