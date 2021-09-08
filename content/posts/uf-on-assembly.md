@@ -13,17 +13,17 @@ draft: false
 
 「達芬奇說 "He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast"(愛實踐而沒有理論的人，就像沒有舵和指南針登上船的水手，永遠不知道他可以投向何處)」A說。
 
-「理論似乎是薄弱的，我們需要理論」B說。
+「理論似乎是薄弱的，我們需要理論」T說。
 
-「這也是我想說的，看這個」C說。
+「這也是我想說的，看這個」N說。
 
 「你是說，理論的體系?」B說。
 
-「也許不是個體系，怎麼說呢，看看這個」C說。
+「也許不是個體系，怎麼說呢，看看這個」N說。
 
 {{< img src="/images/orig/uf/kuoyi/set" type="png" alt="" caption="" >}}
 
-「額，上面一層是什麼呢」E說。
+「額，上面一層目前算是什麼呢」E問。
 
 「智力屬性，路線等等」C說。
 
@@ -31,4 +31,14 @@ draft: false
 
 「至今為止，我認為我們得到的很多解釋非常清晰，坦白地說，我從來沒見過這麼清晰的解釋」D說。
 
-「我也是，太清晰了，難以置信」D說。
+「我也是，感覺太清晰了，難以置信」T說。
+
+「是不是過於簡單了」J說。
+
+「到目前為止，一切工作正常」D說。
+
+「好，就到這兒吧，有人去吃飯嗎」D看了看表，說。
+
+「等等我」A說。
+
+「還有我」T說。
