@@ -24,3 +24,7 @@ draft: false
 … ...
 
 =\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=
+
+{{< img src="/images/orig/uf/kuoyi/shape" type="png" alt="" caption="" >}}
+
+{{< img src="/images/orig/uf/kuoyi/degree" type="png" alt="" caption="" >}}
