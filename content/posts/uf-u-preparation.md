@@ -25,3 +25,5 @@ draft: false
 ... ...  
 
 =\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=
+
+{{< img src="/images/orig/uf/link/descriptor" type="png" alt="" caption="" >}}
