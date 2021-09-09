@@ -2,7 +2,7 @@
 title: "【非真實地場】S的準備"
 date: 2021-09-09T12:49:33+08:00
 tags: [小說]
-draft: false
+draft: true
 ---
 
 「這些名稱很短，不屬於描述了」C說。
