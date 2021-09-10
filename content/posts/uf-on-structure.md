@@ -11,8 +11,6 @@ draft: false
 
 {{< img src="/images/orig/uf/sstable/draft-1" type="png" alt="" caption="" >}}
 
-「弄結構的人太少了吧」W說。
-
 「理論基礎好像也有些薄弱，結構研究總感覺不太夠」A說。
 
 「看看這個」C說。
