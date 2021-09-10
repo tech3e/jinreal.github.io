@@ -19,4 +19,4 @@ draft: false
 
 {{< img src="/images/orig/uf/kuoyi/number-theory" type="png" alt="" caption="" >}}
 
-「數字，生成型、組合型」
+「數字，生成型、組合型」S思考著。
