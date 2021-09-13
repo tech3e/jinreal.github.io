@@ -1,0 +1,20 @@
+---
+title: "Uf on Maturity"
+date: 2021-09-13T21:47:59+08:00
+tags: [小說]
+draft: false
+---
+
+「這塊已經很久沒有變過了」A說。
+
+「是成熟的」W說。
+
+「是的，接近全部自動化」N說。
+
+「這部分開始像模像樣了」A說。
+
+「是的」V邊說邊看著。
+
+{{< img src="/images/orig/uf/kuoyi/meaning" type="png" alt="" caption="" >}}
+
+{{< img src="/images/orig/uf/kuoyi/clear" type="png" alt="" caption="" >}}
