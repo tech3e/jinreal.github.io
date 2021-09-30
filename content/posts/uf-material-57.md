@@ -5,6 +5,4 @@ tags: [小說]
 draft: false
 ---
 
-印象派--時空之縮寫，精確之模糊，實質之渲染，正真之縮影。  
-
 {{< img src="/images/orig/uf/fragment/raw-00001" type="png" alt="" caption="" >}}
