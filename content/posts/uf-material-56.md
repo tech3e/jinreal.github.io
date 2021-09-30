@@ -1,6 +1,8 @@
 ---
-title: "Uf Material 56"
+title: "【非真實地場】資料(56)"
 date: 2021-09-30T15:51:37+08:00
-draft: true
+tags: [小說]
+draft: false
 ---
 
+印象派--時空之縮寫，精確之模糊，實質之渲染，正真之縮影。  
