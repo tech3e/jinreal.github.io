@@ -6,7 +6,6 @@ draft: false
 ---
 
 =\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*= 
-......  
-2046 is a 2004 romantic drama film ...... Kar-wai. ...... between Hong Kong, France, Italy, China and Germany, ...... unconsummated affair with Su Li-zhen in 1960s Hong Kong and includes elements of science fiction.  
-......  
+"......  2046 is a 2004 romantic drama film ...... Kar-wai. ...... between Hong Kong, France, Italy, China and Germany, ...... unconsummated affair with Su Li-zhen in 1960s Hong Kong and includes elements of science fiction.  
+...... "-Wi......  
 =\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=\*=  
