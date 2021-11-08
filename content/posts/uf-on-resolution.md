@@ -7,8 +7,8 @@ draft: false
 
 「3 is framework」W說。  
 
-「Dimension..dimension is framework」N說。  
+「Dimension, dimension is framework」N說。  
 
-「3就是架子，維度就是架子」A自言自語。
+「3就是架子，維度就是架子」D自言自語。
 
-但現在有些作品顯然不是那麼有立體感，有多明顯？幾秒鐘就能清晰的看出來。A想。  
+但現在有些作品顯然不是那麼有立體感，有多明顯？幾秒鐘就能清晰的看出來。D想。  
