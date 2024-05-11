@@ -8,7 +8,7 @@ disqusShortname = "jinreal"
     # Programming
     github = "https://github.com/jinreal/"
     weibo = "http://weibo.com/jinreal2014"
-    medium = "https://medium.com/@tetconst"
+    #medium = "https://medium.com/@tetconst"
 
 [taxonomies]
   tag = "tags"
